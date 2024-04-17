@@ -1,0 +1,74 @@
+[gd_scene load_steps=3 format=3 uid="uid://bpeuqvf2so133"]
+
+[ext_resource type="Script" path="res://main.cs" id="1_l2htd"]
+[ext_resource type="Texture2D" uid="uid://ctkwaowftkwkr" path="res://asset/space.png" id="2_3jqos"]
+
+[node name="main" type="Node2D"]
+script = ExtResource("1_l2htd")
+
+[node name="Control" type="Control" parent="."]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 1152.0
+offset_bottom = 648.0
+
+[node name="GridContainer" type="GridContainer" parent="Control"]
+layout_mode = 0
+offset_right = 479.0
+offset_bottom = 529.0
+columns = 3
+
+[node name="Button1" type="TextureButton" parent="Control/GridContainer"]
+layout_mode = 2
+texture_normal = ExtResource("2_3jqos")
+stretch_mode = 0
+
+[node name="Button2" type="TextureButton" parent="Control/GridContainer"]
+layout_mode = 2
+texture_normal = ExtResource("2_3jqos")
+stretch_mode = 0
+
+[node name="Button3" type="TextureButton" parent="Control/GridContainer"]
+layout_mode = 2
+texture_normal = ExtResource("2_3jqos")
+stretch_mode = 0
+
+[node name="Button4" type="TextureButton" parent="Control/GridContainer"]
+layout_mode = 2
+texture_normal = ExtResource("2_3jqos")
+stretch_mode = 0
+
+[node name="Button5" type="TextureButton" parent="Control/GridContainer"]
+layout_mode = 2
+texture_normal = ExtResource("2_3jqos")
+stretch_mode = 0
+
+[node name="Button6" type="TextureButton" parent="Control/GridContainer"]
+layout_mode = 2
+texture_normal = ExtResource("2_3jqos")
+stretch_mode = 0
+
+[node name="Button7" type="TextureButton" parent="Control/GridContainer"]
+layout_mode = 2
+texture_normal = ExtResource("2_3jqos")
+stretch_mode = 0
+
+[node name="Button8" type="TextureButton" parent="Control/GridContainer"]
+layout_mode = 2
+texture_normal = ExtResource("2_3jqos")
+stretch_mode = 0
+
+[node name="Button9" type="TextureButton" parent="Control/GridContainer"]
+layout_mode = 2
+texture_normal = ExtResource("2_3jqos")
+stretch_mode = 0
+
+[connection signal="pressed" from="Control/GridContainer/Button1" to="." method="_on_Button1_pressed"]
+[connection signal="pressed" from="Control/GridContainer/Button2" to="." method="_on_Button2_pressed"]
+[connection signal="pressed" from="Control/GridContainer/Button3" to="." method="_on_Button3_pressed"]
+[connection signal="pressed" from="Control/GridContainer/Button4" to="." method="_on_Button4_pressed"]
+[connection signal="pressed" from="Control/GridContainer/Button5" to="." method="_on_Button5_pressed"]
+[connection signal="pressed" from="Control/GridContainer/Button6" to="." method="_on_Button6_pressed"]
+[connection signal="pressed" from="Control/GridContainer/Button7" to="." method="_on_Button7_pressed"]
+[connection signal="pressed" from="Control/GridContainer/Button8" to="." method="_on_Button8_pressed"]
+[connection signal="pressed" from="Control/GridContainer/Button9" to="." method="_on_Button9_pressed"]

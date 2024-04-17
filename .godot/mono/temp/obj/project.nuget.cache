@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "P2wC5YdZIXVepL2XWNjSZ+I+82icSWrJuh5qxvPOk2DRvsrtpJT1pFnxnwJEYsoV+qalYiIjuzB3lfzIeH+u7w==",
+  "success": true,
+  "projectFilePath": "D:\\linx\\OneDrive\\Learn\\Godot\\Nine-dot\\Nine-dot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\26117\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
+    "C:\\Users\\26117\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",
+    "C:\\Users\\26117\\.nuget\\packages\\godotsharpeditor\\4.2.1\\godotsharpeditor.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

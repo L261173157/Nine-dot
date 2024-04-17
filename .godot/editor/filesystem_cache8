@@ -1,0 +1,10 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1713368206
+icon.svg::CompressedTexture2D::675255215753921752::1713346311::1713346355::1::::<><>::
+main.cs::CSharpScript::-1::1713367832::0::1::::<>Node2D<>::
+main.tscn::PackedScene::3448754873803400428::1713364866::0::1::::<><>::res://main.cs<>uid://ctkwaowftkwkr::::res://asset/space.png
+README.md::TextFile::-1::1713346040::0::1::::<><>::
+::res://asset/::1713364815
+player1.png::CompressedTexture2D::6901339533017156213::1709555592::1713363541::1::::<><>::
+player2.png::CompressedTexture2D::5160405678296802381::1709555592::1713363541::1::::<><>::
+space.png::CompressedTexture2D::6128409717455862877::1709555592::1713364815::1::::<><>::
