@@ -15,3 +15,4 @@ D:\linx\OneDrive\Learn\Godot\Nine-dot\.godot\mono\temp\obj\Debug\refint\Nine-dot
 D:\linx\OneDrive\Learn\Godot\Nine-dot\.godot\mono\temp\obj\Debug\Nine-dot.pdb
 D:\linx\OneDrive\Learn\Godot\Nine-dot\.godot\mono\temp\obj\Debug\Nine-dot.genruntimeconfig.cache
 D:\linx\OneDrive\Learn\Godot\Nine-dot\.godot\mono\temp\obj\Debug\ref\Nine-dot.dll
+D:\linx\OneDrive\Learn\Godot\Nine-dot\.godot\mono\temp\obj\Debug\Nine-dot.sourcelink.json
