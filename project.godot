@@ -13,11 +13,18 @@ config_version=5
 config/name="Nine-dot"
 run/main_scene="res://main.tscn"
 config/features=PackedStringArray("4.2", "C#", "GL Compatibility")
-config/icon="res://icon.svg"
+config/icon="res://asset/icon.png"
 
 [autoload]
 
 Gamedata="*res://gamedata.cs"
+
+[display]
+
+window/size/viewport_width=1080
+window/size/viewport_height=2220
+window/stretch/mode="viewport"
+window/handheld/orientation=1
 
 [dotnet]
 
@@ -25,5 +32,5 @@ project/assembly_name="Nine-dot"
 
 [rendering]
 
-renderer/rendering_method="gl_compatibility"
-renderer/rendering_method.mobile="gl_compatibility"
+renderer/rendering_method="mobile"
+textures/vram_compression/import_etc2_astc=true

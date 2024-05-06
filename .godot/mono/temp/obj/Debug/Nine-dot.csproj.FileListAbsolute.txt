@@ -9,10 +9,10 @@ D:\linx\OneDrive\Learn\Godot\Nine-dot\.godot\mono\temp\obj\Debug\Nine-dot.Genera
 D:\linx\OneDrive\Learn\Godot\Nine-dot\.godot\mono\temp\obj\Debug\Nine-dot.AssemblyInfoInputs.cache
 D:\linx\OneDrive\Learn\Godot\Nine-dot\.godot\mono\temp\obj\Debug\Nine-dot.AssemblyInfo.cs
 D:\linx\OneDrive\Learn\Godot\Nine-dot\.godot\mono\temp\obj\Debug\Nine-dot.csproj.CoreCompileInputs.cache
-D:\linx\OneDrive\Learn\Godot\Nine-dot\.godot\mono\temp\obj\Debug\Nine-dot.csproj.Up2Date
 D:\linx\OneDrive\Learn\Godot\Nine-dot\.godot\mono\temp\obj\Debug\Nine-dot.dll
 D:\linx\OneDrive\Learn\Godot\Nine-dot\.godot\mono\temp\obj\Debug\refint\Nine-dot.dll
 D:\linx\OneDrive\Learn\Godot\Nine-dot\.godot\mono\temp\obj\Debug\Nine-dot.pdb
 D:\linx\OneDrive\Learn\Godot\Nine-dot\.godot\mono\temp\obj\Debug\Nine-dot.genruntimeconfig.cache
 D:\linx\OneDrive\Learn\Godot\Nine-dot\.godot\mono\temp\obj\Debug\ref\Nine-dot.dll
 D:\linx\OneDrive\Learn\Godot\Nine-dot\.godot\mono\temp\obj\Debug\Nine-dot.sourcelink.json
+D:\linx\OneDrive\Learn\Godot\Nine-dot\.godot\mono\temp\obj\Debug\Nine-dot.csproj.CopyComplete

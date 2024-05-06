@@ -1,12 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "P2wC5YdZIXVepL2XWNjSZ+I+82icSWrJuh5qxvPOk2DRvsrtpJT1pFnxnwJEYsoV+qalYiIjuzB3lfzIeH+u7w==",
+  "dgSpecHash": "vB5yMwcSWjKV/qVm6wYkMF5mMvBcbM3TpbT/Ux8APm2fTCfnusIxPsfaNjmmrTY5NDARtPRDVizb3/RJKLLj1Q==",
   "success": true,
   "projectFilePath": "D:\\linx\\OneDrive\\Learn\\Godot\\Nine-dot\\Nine-dot.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\26117\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
-    "C:\\Users\\26117\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",
-    "C:\\Users\\26117\\.nuget\\packages\\godotsharpeditor\\4.2.1\\godotsharpeditor.4.2.1.nupkg.sha512"
+    "C:\\Users\\26117\\.nuget\\packages\\godot.sourcegenerators\\4.2.2\\godot.sourcegenerators.4.2.2.nupkg.sha512",
+    "C:\\Users\\26117\\.nuget\\packages\\godotsharp\\4.2.2\\godotsharp.4.2.2.nupkg.sha512",
+    "C:\\Users\\26117\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.18\\microsoft.netcore.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\26117\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-bionic-arm64\\7.0.18\\microsoft.netcore.app.runtime.linux-bionic-arm64.7.0.18.nupkg.sha512",
+    "C:\\Users\\26117\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.18\\microsoft.windowsdesktop.app.ref.7.0.18.nupkg.sha512",
+    "C:\\Users\\26117\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.18\\microsoft.aspnetcore.app.ref.7.0.18.nupkg.sha512"
   ],
   "logs": []
 }
